@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bruno-lanzi
 - 👀 I’m interested in: get more experiences that bring me closer to a work environment
-- 🌱 I’m currently learning html5 CSS
+- 🌱 I’m currently learning html5 CSS javascrip
 
 
 <!---
